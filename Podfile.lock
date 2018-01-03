@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AWSCognito (2.5.0):
+    - AWSCore (= 2.5.0)
+  - AWSCore (2.5.0)
+  - AWSMobileAnalytics (2.5.0):
+    - AWSCore (= 2.5.0)
+  - AWSS3 (2.5.0):
+    - AWSCore (= 2.5.0)
+  - AWSSNS (2.5.0):
+    - AWSCore (= 2.5.0)
+  - Fabric (1.6.11)
+  - Himotoki (3.0.0)
+  - SwiftyJSON (3.1.4)
+  - TwitterCore (2.8.0):
+    - Fabric
+  - TwitterKit (2.8.0):
+    - TwitterCore (= 2.8.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AWSCognito
+  - AWSMobileAnalytics
+  - AWSS3
+  - AWSSNS
+  - Fabric
+  - Himotoki
+  - SwiftyJSON
+  - TwitterCore
+  - TwitterKit
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  AWSCognito: 5a1af0c4b351de1ec8d523d3ed0aecce42dd630e
+  AWSCore: e9839d27ceaa2db75934a9c418630ce63c23e347
+  AWSMobileAnalytics: c55eec6220d8e375c66133cf15f461f442dc9bc0
+  AWSS3: 3678dd99006ff77c825fb857fc7cbaca0db848c6
+  AWSSNS: b2e3f080fa826e7ff2bcd52cb050c1592c439090
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  Himotoki: df74b01035e86e021b7b04a15b033a7fd189b84f
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TwitterCore: e959987be23c767004d29eb7fab8d85d8585a2e5
+  TwitterKit: f7b0a1adcb800f6446ff0ef70164797376522ff3
+
+PODFILE CHECKSUM: d8b6c83bf782dcbf46c01fb856fec8e59b5a26a4
+
+COCOAPODS: 1.1.1
